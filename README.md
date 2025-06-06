@@ -19,3 +19,5 @@ O objetivo do jogo é encontrar pares de cartas iguais virando-as. A interativid
 1. Clone este repositório:
    ```bash
    git clone https://github.com/natipastre/Jogo-da-memoria.git
+
+ LinkedIn https://www.linkedin.com/in/natalia-pastre/
