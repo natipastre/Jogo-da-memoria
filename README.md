@@ -2,7 +2,6 @@
 
 [🚀 Acesse o Jogo da Memória Online!](https://natipastre.github.io/Jogo-da-memoria/)
 
-![Screenshot do Jogo da Memória](imagens/screenshot.png)
 
 ## Sobre o Projeto
 
