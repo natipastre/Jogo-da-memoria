@@ -1,23 +1,33 @@
-# Jogo da Memória
+# 🧠 Jogo da Memória
 
-[🚀 Acesse o Jogo da Memória Online!](https://natipastre.github.io/Jogo-da-memoria/)
+✨ Veja abaixo uma prévia do projeto:
 
+<p align="center">
+  <img src="https://i.postimg.cc/8cLBJnSC/Captura-de-tela-2025-06-28-213721.png" alt="Jogo da Memória - prévia do projeto" width="600"/>
+</p>
+
+---
 
 ## Sobre o Projeto
 
-Este é um jogo da memória desenvolvido como prática no curso **Serfrontend** da plataforma Udemy. Fiz algumas modificações para deixar o projeto mais moderno e visualmente agradável, utilizando apenas **HTML** e **CSS** para criar o efeito de transformação 3D nas cartas.
+Este jogo da memória foi desenvolvido como prática no curso **Serfrontend**, disponível na plataforma **Udemy**. Fiz algumas melhorias para deixá-lo mais moderno e visualmente atraente, utilizando apenas **HTML** e **CSS**, incluindo efeitos de transformação 3D nas cartas.
 
-O objetivo do jogo é encontrar pares de cartas iguais virando-as. A interatividade é feita com checkboxes e transformações CSS, sem uso de JavaScript.
+O objetivo do jogo é encontrar pares de cartas iguais virando-as. A interatividade é implementada com o uso inteligente de checkboxes e transformações CSS, sem necessidade de JavaScript, o que torna o projeto leve e eficiente.
+
+---
+
+## 🚀 Acessar o Projeto
+
+🔗 [Clique aqui para jogar online!](https://natipastre.github.io/Jogo-da-memoria/)
+
+---
 
 ## Tecnologias Utilizadas
 
-- HTML5
-- CSS3 (incluindo transformações 3D)
+- HTML5  
+- CSS3 (com transformações 3D)  
 
-## Como Rodar o Projeto
+---
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/natipastre/Jogo-da-memoria.git
-
- LinkedIn https://www.linkedin.com/in/natalia-pastre/
+Feito com 💙 por [Natália Baptista Pastre](https://github.com/natipastre) |  
+[🔗 LinkedIn](https://www.linkedin.com/in/natalia-pastre/)
