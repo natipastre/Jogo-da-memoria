@@ -3,7 +3,7 @@
 ✨ Veja abaixo uma prévia do projeto:
 
 <p align="center">
-  <img src="https://i.postimg.cc/8cLBJnSC/Captura-de-tela-2025-06-28-213721.png" alt="Jogo da Memória - prévia do projeto" width="600"/>
+  <img src="https://i.postimg.cc/8cLBJnSC/Captura-de-tela-2025-06-28-213721.png" alt="Jogo da Memória - prévia do projeto" width="400"/>
 </p>
 
 ---
